@@ -1,28 +1,33 @@
 🧩 Data Analyst Intern Task 2 – Tableau Dashboard
-📌 Overview
-This project showcases an interactive Tableau dashboard designed to analyze factory-wise and machine-wise downtime. It enables quick identification of performance bottlenecks across different factories and machines, making it easier for operations teams to take action.
+🚀 Project Summary
+Designed an interactive Tableau dashboard to analyze downtime across factories and machines.
+This solution helps companies identify bottlenecks and optimize operational efficiency.
 
-📊 Dashboard Details
-Bar Chart 1 – Factory Downtime:
-Displays total downtime per factory.
-Acts as a filter for Chart 2.
+📊 Dashboard Components
+📌 1. Factory-Level Downtime (Main Filter)
+🏭 Displays total downtime per factory
 
-Bar Chart 2 – Machine Downtime within Factory:
-Shows individual machine downtimes for the selected factory from Chart 1.
-Enables detailed root-cause analysis at the machine level.
+🧭 Used as a filter to drive machine-level insights
 
-💡 How This Helps the Company
-Identifies high-downtime factories, helping prioritize maintenance resources.
+🔍 2. Machine-Level Downtime (Detailed View)
+🛠️ Shows individual machine downtimes within the selected factory
 
-Drills down to problematic machines in each factory to pinpoint issues quickly.
+🎯 Helps detect which machines contribute most to downtime
 
-Improves operational efficiency by reducing unplanned downtime.
+💼 Business Value / Why It Matters
+✔️ Pinpoint Problem Areas:
+Quickly spot factories with excessive downtime and zoom into their machines.
 
-Assists managers in making data-driven decisions for resource allocation and performance improvement.
+✔️ Targeted Maintenance:
+Prioritize which machines or factories need immediate attention.
 
-Enables trend monitoring over time if extended with historical data.
+✔️ Data-Driven Decisions:
+Managers can act based on real-time insights, not assumptions.
 
-🛠️ Tools Used
-Tableau
+✔️ Boost Productivity:
+Minimize unplanned outages and streamline operations.
 
-Excel/CSV for data source preparation
+🧰 Tools & Tech Used
+Tool	Purpose
+🧩 Tableau	Dashboard design & filtering
+📄 Excel/CSV	Data source preparation
